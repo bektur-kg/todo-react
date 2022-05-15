@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400;600;700;900&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	position: relative;
+	text-decoration: none;
+	list-style: none;
+}
+
+body{
+	background: url('./assets/img/AnimatedShapeBg.svg') center / cover fixed no-repeat;
+	font-family: 'Titillium Web',
+	sans-serif;
+}
